@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohsen Jalali</h1>
 <h3 align="center">A dedicated programmer who loves to learn and code</h3>
 
-- 🔭 I’m currently working on **Boomshi** Startup
+- 🔭 I’m currently working on **Atlantis** Startup
 
 - 🌱 I’m currently learning **Assembly**
 
