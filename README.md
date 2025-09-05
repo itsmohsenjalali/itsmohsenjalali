@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohsen Jalali</h1>
 <h3 align="center">A dedicated programmer who loves to learn and code</h3>
 
-- 🔭 I’m currently working on [In Community](https://t.me/InCommunityInfoBot)
+- 🔭 I’m currently working on **My Start-up**
 
-- 🌱 I’m currently learning **Assembly**
-
-- 📝 I regularly write articles on [codenote.mohsenjalali.ir](codenote.mohsenjalali.ir)
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Python, Django**
 
